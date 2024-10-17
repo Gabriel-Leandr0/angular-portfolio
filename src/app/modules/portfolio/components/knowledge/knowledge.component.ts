@@ -10,6 +10,7 @@ import { IKnowledge } from '../../interface/IKnowledge.interface';
 })
 export class KnowledgeComponent {
 
+  //Com singal (ele fica observando os dados em tempo real)
   public arrayKnowledge = signal<IKnowledge[]>([
     {
       src: 'assets/icons/knowledge/angular.svg',
