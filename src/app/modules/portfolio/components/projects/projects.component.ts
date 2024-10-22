@@ -26,6 +26,81 @@ export class ProjectsComponent {
         },
       ],
     },
+    {
+      src: '/assets/img/projects/vfull.png',
+      alt: 'Projeto VFull',
+      title: 'VFull',
+      description:
+        'Sistema de controle de apontamentos para funcionários internos.',
+      width: 100,
+      height: 51,
+      links: [
+        {
+          name: 'GitHub',
+          href: 'www.github.com',
+        },
+      ],
+    },
+    {
+      src: '/assets/img/projects/vfull.png',
+      alt: 'Projeto VFull',
+      title: 'VFull',
+      description:
+        'Sistema de controle de apontamentos para funcionários internos.',
+      width: 100,
+      height: 51,
+      links: [
+        {
+          name: 'GitHub',
+          href: 'www.github.com',
+        },
+      ],
+    },
+    {
+      src: '/assets/img/projects/vfull.png',
+      alt: 'Projeto VFull',
+      title: 'VFull',
+      description:
+        'Sistema de controle de apontamentos para funcionários internos.',
+      width: 100,
+      height: 51,
+      links: [
+        {
+          name: 'GitHub',
+          href: 'www.github.com',
+        },
+      ],
+    },
+    {
+      src: '/assets/img/projects/vfull.png',
+      alt: 'Projeto VFull',
+      title: 'VFull',
+      description:
+        'Sistema de controle de apontamentos para funcionários internos.',
+      width: 100,
+      height: 51,
+      links: [
+        {
+          name: 'GitHub',
+          href: 'www.github.com',
+        },
+      ],
+    },
+    {
+      src: '/assets/img/projects/vfull.png',
+      alt: 'Projeto VFull',
+      title: 'VFull',
+      description:
+        'Sistema de controle de apontamentos para funcionários internos.',
+      width: 100,
+      height: 51,
+      links: [
+        {
+          name: 'GitHub',
+          href: 'www.github.com',
+        },
+      ],
+    },
   ]);
   
 }
