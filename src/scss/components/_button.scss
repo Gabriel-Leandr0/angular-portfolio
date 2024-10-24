@@ -14,11 +14,13 @@
   }
 
   &.btn-primary {
-    background-color: var(--primary-color);
-    color: var(--black-010);
+    background-color: var(--black);
+    color: var(--white);
+    border: solid;
+    border-color: var(--primary-color);
 
     &:hover {
-      background-color: var(--primary-010);
+      background-color: var(--primary-color);
       color: var(--white);
     }
   }
