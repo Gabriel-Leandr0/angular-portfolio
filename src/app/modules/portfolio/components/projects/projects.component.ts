@@ -18,95 +18,28 @@ export class ProjectsComponent {
 
   public arrayProjects = signal<IProjects[]>([
     {
-      src: '/assets/img/projects/vfull.png',
-      alt: 'Projeto VFull',
-      title: 'VFull',
+      src: '/assets/img/projects/mind.svg',
+      alt: 'Projeto Mind',
+      title: 'Mind - Em desenvolvimento',
       description:
-        'Sistema de controle de apontamentos para funcionários internos.',
-      width: 100,
-      height: 51,
+        'Plataforma para criação de portfolio.',
+      width: 250,
+      height: 100,
       links: [
         {
-          name: 'GitHub',
-          href: 'www.github.com',
+          name: 'Frontend',
+          href: 'https://github.com/Gabriel-Leandr0/mind-front',
         },
-      ],
-    },
-    {
-      src: '/assets/img/projects/vfull.png',
-      alt: 'Projeto VFull',
-      title: 'VFull',
-      description:
-        'Sistema de controle de apontamentos para funcionários internos.',
-      width: 100,
-      height: 51,
-      links: [
         {
-          name: 'GitHub',
-          href: 'www.github.com',
+          name: 'Backend',
+          href: 'https://github.com/Gabriel-Leandr0/mind-back',
         },
-      ],
-    },
-    {
-      src: '/assets/img/projects/vfull.png',
-      alt: 'Projeto VFull',
-      title: 'VFull',
-      description:
-        'Sistema de controle de apontamentos para funcionários internos.',
-      width: 100,
-      height: 51,
-      links: [
         {
-          name: 'GitHub',
-          href: 'www.github.com',
-        },
+          name: 'Figma',
+          href: 'https://www.figma.com/design/oXUClzK5ohF8KWgqlJOqiQ/Mind?node-id=0-1&node-type=canvas&t=YpEMIlTu2V1N963D-0'
+        }
       ],
-    },
-    {
-      src: '/assets/img/projects/vfull.png',
-      alt: 'Projeto VFull',
-      title: 'VFull',
-      description:
-        'Sistema de controle de apontamentos para funcionários internos.',
-      width: 100,
-      height: 51,
-      links: [
-        {
-          name: 'GitHub',
-          href: 'www.github.com',
-        },
-      ],
-    },
-    {
-      src: '/assets/img/projects/vfull.png',
-      alt: 'Projeto VFull',
-      title: 'VFull',
-      description:
-        'Sistema de controle de apontamentos para funcionários internos.',
-      width: 100,
-      height: 51,
-      links: [
-        {
-          name: 'GitHub',
-          href: 'www.github.com',
-        },
-      ],
-    },
-    {
-      src: '/assets/img/projects/vfull.png',
-      alt: 'Projeto VFull',
-      title: 'VFull',
-      description:
-        'Sistema de controle de apontamentos para funcionários internos.',
-      width: 100,
-      height: 51,
-      links: [
-        {
-          name: 'GitHub',
-          href: 'www.github.com',
-        },
-      ],
-    },
+    }
   ]);
   
   public openDialog(data: IProjects){

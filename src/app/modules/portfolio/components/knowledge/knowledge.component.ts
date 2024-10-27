@@ -16,39 +16,29 @@ export class KnowledgeComponent {
   //Com singal (ele fica observando os dados em tempo real)
   public arrayKnowledge = signal<IKnowledge[]>([
     {
-      src: 'assets/icons/knowledge/angular.svg',
-      alt: 'Ícone do Angular',
-      title: 'Angular',
-    },
-    {
-      src: 'assets/icons/knowledge/css3.svg',
-      alt: 'Ícone do CSS3',
-      title: 'CSS3',
-    },
-    {
       src: 'assets/icons/knowledge/dotnet.svg',
       alt: 'Ícone do .NET',
       title: '.NET',
     },
     {
-      src: 'assets/icons/knowledge/html5.svg',
-      alt: 'Ícone do HTML5',
-      title: 'HTML5',
+      src: 'assets/icons/knowledge/angular.svg',
+      alt: 'Ícone do Angular',
+      title: 'Angular',
     },
     {
-      src: 'assets/icons/knowledge/javascript.svg',
-      alt: 'Ícone do JavaScript',
-      title: 'JavaScript',
+      src: 'assets/icons/knowledge/sql.svg',
+      alt: 'Ícone do SQL',
+      title: 'SQL',
     },
     {
-      src: 'assets/icons/knowledge/nodejs.svg',
-      alt: 'Ícone do Node.js',
-      title: 'Node.js',
+      src: 'assets/icons/knowledge/docker.svg',
+      alt: 'Ícone do Docker',
+      title: 'Docker',
     },
     {
-      src: 'assets/icons/knowledge/sass.svg',
-      alt: 'Ícone do Sass',
-      title: 'Sass',
+      src: 'assets/icons/knowledge/kubernetes.svg',
+      alt: 'Ícone do Kubernetes',
+      title: 'Kubernetes',
     }
-  ])
+  ]);
 }
