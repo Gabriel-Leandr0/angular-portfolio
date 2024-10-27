@@ -16,14 +16,14 @@ export class ExperiencesComponent {
         strong: 'Desenvolvedor Fullstack',
         p: 'ModalGR | 2023 - Atualmente',
       },
-      text: 'Como Desenvolvedor FullStack, tive a oportunidade de consolidar minhas habilidades na construção de aplicações web. Participei de projetos de grande impacto, como o desenvolvimento de um sistema de controle de apontamentos para funcionários internos e a criação de um sistema de gestão portuária para operações da Petrobras. Essas experiências aprimoraram meu conhecimento em tecnologias de Front-End e Back-End, além de permitir o trabalho com soluções voltadas para otimização de processos e gerenciamento eficiente.',
+      text: 'Como Desenvolvedor Fullstack, tive a oportunidade de consolidar minhas habilidades na construção de aplicações web. Participei de projetos de grande impacto, como o desenvolvimento de um sistema de controle de apontamentos para funcionários internos e a criação de um sistema de gestão portuária para operações da Petrobras. Essas experiências aprimoraram meu conhecimento em tecnologias de Front-End e Backend, além de permitir o trabalho com soluções voltadas para otimização de processos e gerenciamento eficiente.',
     },
     {
       summary: {
-        strong: 'Desenvolvedor Back-End',
+        strong: 'Desenvolvedor Backend',
         p: 'Tecnorav | 2022 - 2023',
       },
-      text: 'Minha experiência como Desenvolvedor Back-End envolveu customizações profundas no sistema TOTVS Protheus, moldando-o de acordo com as necessidades de cada cliente. Foi nessa posição que tive meu primeiro contato prático com programação, desenvolvendo funcionalidades sob medida para atender regras de negócio específicas. Essa experiência me deu uma visão clara das particularidades de cada operação, além de reforçar minhas habilidades em adaptar soluções para otimizar processos e fluxos de trabalho personalizados.',
+      text: 'Minha experiência como Desenvolvedor Backend envolveu customizações profundas no sistema TOTVS Protheus, moldando-o de acordo com as necessidades de cada cliente. Foi nessa posição que tive meu primeiro contato prático com programação, desenvolvendo funcionalidades sob medida para atender regras de negócio específicas. Essa experiência me deu uma visão clara das particularidades de cada operação, além de reforçar minhas habilidades em adaptar soluções para otimizar processos e fluxos de trabalho personalizados.',
     },
     {
       summary: {
